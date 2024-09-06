@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("arif.Construction.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d726bf8ee35539aaf66b450f40d5de3df695321d")]
 [assembly: System.Reflection.AssemblyProductAttribute("arif.Construction.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("arif.Construction.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

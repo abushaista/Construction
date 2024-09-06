@@ -3,60 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D0835BA-9145-43FF-8D52-9B14B026F1BB}|Auth.Domain\\Auth.Domain.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D0835BA-9145-43FF-8D52-9B14B026F1BB}|Auth.Domain\\Auth.Domain.csproj|solutionrelative:auth.domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD81063C-0009-484F-B367-2BEFD330C92C}|Auth.Infrastructure\\Auth.Infrastructure.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.infrastructure\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD81063C-0009-484F-B367-2BEFD330C92C}|Auth.Infrastructure\\Auth.Infrastructure.csproj|solutionrelative:auth.infrastructure\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D0835BA-9145-43FF-8D52-9B14B026F1BB}|Auth.Domain\\Auth.Domain.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.domain\\shared\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D0835BA-9145-43FF-8D52-9B14B026F1BB}|Auth.Domain\\Auth.Domain.csproj|solutionrelative:auth.domain\\shared\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD81063C-0009-484F-B367-2BEFD330C92C}|Auth.Infrastructure\\Auth.Infrastructure.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.infrastructure\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD81063C-0009-484F-B367-2BEFD330C92C}|Auth.Infrastructure\\Auth.Infrastructure.csproj|solutionrelative:auth.infrastructure\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D0835BA-9145-43FF-8D52-9B14B026F1BB}|Auth.Domain\\Auth.Domain.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.domain\\shared\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D0835BA-9145-43FF-8D52-9B14B026F1BB}|Auth.Domain\\Auth.Domain.csproj|solutionrelative:auth.domain\\shared\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.application\\queries\\loginqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\queries\\loginqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D0835BA-9145-43FF-8D52-9B14B026F1BB}|Auth.Domain\\Auth.Domain.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D0835BA-9145-43FF-8D52-9B14B026F1BB}|Auth.Domain\\Auth.Domain.csproj|solutionrelative:auth.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.application\\abstractions\\messaging\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\abstractions\\messaging\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DBAAEAB-25D1-4786-AD79-70F5F6733A02}|arif.Construction.Api\\arif.Construction.Api.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\arif.construction.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DBAAEAB-25D1-4786-AD79-70F5F6733A02}|arif.Construction.Api\\arif.Construction.Api.csproj|solutionrelative:arif.construction.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.application\\common\\ipasswordhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\common\\ipasswordhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08A0FB0-CE6D-49F1-98E9-9A0B55EFF0C8}|arif.Construction.Infrastructure\\arif.Construction.Infrastructure.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\arif.construction.infrastructure\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B08A0FB0-CE6D-49F1-98E9-9A0B55EFF0C8}|arif.Construction.Infrastructure\\arif.Construction.Infrastructure.csproj|solutionrelative:arif.construction.infrastructure\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.application\\common\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\common\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08A0FB0-CE6D-49F1-98E9-9A0B55EFF0C8}|arif.Construction.Infrastructure\\arif.Construction.Infrastructure.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\arif.construction.infrastructure\\services\\uniquenumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B08A0FB0-CE6D-49F1-98E9-9A0B55EFF0C8}|arif.Construction.Infrastructure\\arif.Construction.Infrastructure.csproj|solutionrelative:arif.construction.infrastructure\\services\\uniquenumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.application\\queries\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\queries\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17A6FF4F-CEF0-4A57-8999-81B0FC3D162A}|arif.Construction.Application\\arif.Construction.Application.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\arif.construction.application\\interfaces\\iconstructionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17A6FF4F-CEF0-4A57-8999-81B0FC3D162A}|arif.Construction.Application\\arif.Construction.Application.csproj|solutionrelative:arif.construction.application\\interfaces\\iconstructionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.application\\common\\authenticationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\common\\authenticationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08A0FB0-CE6D-49F1-98E9-9A0B55EFF0C8}|arif.Construction.Infrastructure\\arif.Construction.Infrastructure.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\arif.construction.infrastructure\\repositories\\constructionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B08A0FB0-CE6D-49F1-98E9-9A0B55EFF0C8}|arif.Construction.Infrastructure\\arif.Construction.Infrastructure.csproj|solutionrelative:arif.construction.infrastructure\\repositories\\constructionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.application\\auth.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\auth.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08A0FB0-CE6D-49F1-98E9-9A0B55EFF0C8}|arif.Construction.Infrastructure\\arif.Construction.Infrastructure.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\arif.construction.infrastructure\\repositories\\constructioneventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B08A0FB0-CE6D-49F1-98E9-9A0B55EFF0C8}|arif.Construction.Infrastructure\\arif.Construction.Infrastructure.csproj|solutionrelative:arif.construction.infrastructure\\repositories\\constructioneventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.application\\abstractions\\messaging\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\abstractions\\messaging\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17A6FF4F-CEF0-4A57-8999-81B0FC3D162A}|arif.Construction.Application\\arif.Construction.Application.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\arif.construction.application\\services\\iuniquenumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17A6FF4F-CEF0-4A57-8999-81B0FC3D162A}|arif.Construction.Application\\arif.Construction.Application.csproj|solutionrelative:arif.construction.application\\services\\iuniquenumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.application\\abstractions\\messaging\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\abstractions\\messaging\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DBAAEAB-25D1-4786-AD79-70F5F6733A02}|arif.Construction.Api\\arif.Construction.Api.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\arif.construction.api\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DBAAEAB-25D1-4786-AD79-70F5F6733A02}|arif.Construction.Api\\arif.Construction.Api.csproj|solutionrelative:arif.construction.api\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08A0FB0-CE6D-49F1-98E9-9A0B55EFF0C8}|arif.Construction.Infrastructure\\arif.Construction.Infrastructure.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\arif.construction.infrastructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B08A0FB0-CE6D-49F1-98E9-9A0B55EFF0C8}|arif.Construction.Infrastructure\\arif.Construction.Infrastructure.csproj|solutionrelative:arif.construction.infrastructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08A0FB0-CE6D-49F1-98E9-9A0B55EFF0C8}|arif.Construction.Infrastructure\\arif.Construction.Infrastructure.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\arif.construction.infrastructure\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B08A0FB0-CE6D-49F1-98E9-9A0B55EFF0C8}|arif.Construction.Infrastructure\\arif.Construction.Infrastructure.csproj|solutionrelative:arif.construction.infrastructure\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.application\\abstractions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\abstractions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,183 +63,157 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Domain\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Auth.Domain\\Repositories\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Domain\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "Auth.Domain\\Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Infrastructure\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Auth.Infrastructure\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Infrastructure\\JwtSettings.cs",
+              "RelativeToolTip": "Auth.Infrastructure\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T04:01:44.503Z",
+              "WhenOpened": "2024-09-06T04:38:31.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Result.cs",
-              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Domain\\Shared\\Result.cs",
-              "RelativeDocumentMoniker": "Auth.Domain\\Shared\\Result.cs",
-              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Domain\\Shared\\Result.cs",
-              "RelativeToolTip": "Auth.Domain\\Shared\\Result.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAABAAAAAAAAAA==",
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Infrastructure\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Auth.Infrastructure\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Infrastructure\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "Auth.Infrastructure\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T04:00:10.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Error.cs",
-              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Domain\\Shared\\Error.cs",
-              "RelativeDocumentMoniker": "Auth.Domain\\Shared\\Error.cs",
-              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Domain\\Shared\\Error.cs",
-              "RelativeToolTip": "Auth.Domain\\Shared\\Error.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAwwFMAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T03:59:20.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Domain\\User.cs",
-              "RelativeDocumentMoniker": "Auth.Domain\\User.cs",
-              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Domain\\User.cs",
-              "RelativeToolTip": "Auth.Domain\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T03:49:22.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IConstructionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\arif.Construction.Application\\Interfaces\\IConstructionRepository.cs",
-              "RelativeDocumentMoniker": "arif.Construction.Application\\Interfaces\\IConstructionRepository.cs",
-              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\arif.Construction.Application\\Interfaces\\IConstructionRepository.cs",
-              "RelativeToolTip": "arif.Construction.Application\\Interfaces\\IConstructionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T03:39:45.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ConstructionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\arif.Construction.Infrastructure\\Repositories\\ConstructionRepository.cs",
-              "RelativeDocumentMoniker": "arif.Construction.Infrastructure\\Repositories\\ConstructionRepository.cs",
-              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\arif.Construction.Infrastructure\\Repositories\\ConstructionRepository.cs",
-              "RelativeToolTip": "arif.Construction.Infrastructure\\Repositories\\ConstructionRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T03:32:46.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ConstructionEventStore.cs",
-              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\arif.Construction.Infrastructure\\Repositories\\ConstructionEventStore.cs",
-              "RelativeDocumentMoniker": "arif.Construction.Infrastructure\\Repositories\\ConstructionEventStore.cs",
-              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\arif.Construction.Infrastructure\\Repositories\\ConstructionEventStore.cs",
-              "RelativeToolTip": "arif.Construction.Infrastructure\\Repositories\\ConstructionEventStore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T03:32:46.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UniqueNumberService.cs",
-              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\arif.Construction.Infrastructure\\Services\\UniqueNumberService.cs",
-              "RelativeDocumentMoniker": "arif.Construction.Infrastructure\\Services\\UniqueNumberService.cs",
-              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\arif.Construction.Infrastructure\\Services\\UniqueNumberService.cs",
-              "RelativeToolTip": "arif.Construction.Infrastructure\\Services\\UniqueNumberService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T03:30:07.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IUniqueNumberService.cs",
-              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\arif.Construction.Application\\Services\\IUniqueNumberService.cs",
-              "RelativeDocumentMoniker": "arif.Construction.Application\\Services\\IUniqueNumberService.cs",
-              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\arif.Construction.Application\\Services\\IUniqueNumberService.cs",
-              "RelativeToolTip": "arif.Construction.Application\\Services\\IUniqueNumberService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T03:29:56.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Extension.cs",
-              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\arif.Construction.Infrastructure\\Extension.cs",
-              "RelativeDocumentMoniker": "arif.Construction.Infrastructure\\Extension.cs",
-              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\arif.Construction.Infrastructure\\Extension.cs",
-              "RelativeToolTip": "arif.Construction.Infrastructure\\Extension.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAArwCAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T03:20:09.541Z",
+              "WhenOpened": "2024-09-06T04:37:56.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\arif.Construction.Api\\Program.cs",
-              "RelativeDocumentMoniker": "arif.Construction.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\arif.Construction.Api\\Program.cs",
-              "RelativeToolTip": "arif.Construction.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "IPasswordHash.cs",
+              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Common\\IPasswordHash.cs",
+              "RelativeDocumentMoniker": "Auth.Application\\Common\\IPasswordHash.cs",
+              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Common\\IPasswordHash.cs",
+              "RelativeToolTip": "Auth.Application\\Common\\IPasswordHash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T03:17:08.805Z",
+              "WhenOpened": "2024-09-06T04:36:36.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IJwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Common\\IJwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Auth.Application\\Common\\IJwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Common\\IJwtTokenGenerator.cs",
+              "RelativeToolTip": "Auth.Application\\Common\\IJwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:35:22.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Queries\\LoginQueryHandler.cs",
+              "RelativeDocumentMoniker": "Auth.Application\\Queries\\LoginQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Queries\\LoginQueryHandler.cs",
+              "RelativeToolTip": "Auth.Application\\Queries\\LoginQueryHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:34:37.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthenticationResult.cs",
+              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Common\\AuthenticationResult.cs",
+              "RelativeDocumentMoniker": "Auth.Application\\Common\\AuthenticationResult.cs",
+              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Common\\AuthenticationResult.cs",
+              "RelativeToolTip": "Auth.Application\\Common\\AuthenticationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:29:24.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Auth.Application",
+              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Auth.Application.csproj",
+              "RelativeDocumentMoniker": "Auth.Application\\Auth.Application.csproj",
+              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Auth.Application.csproj",
+              "RelativeToolTip": "Auth.Application\\Auth.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T04:28:55.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Queries\\LoginQuery.cs",
+              "RelativeDocumentMoniker": "Auth.Application\\Queries\\LoginQuery.cs",
+              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Queries\\LoginQuery.cs",
+              "RelativeToolTip": "Auth.Application\\Queries\\LoginQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:27:38.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "Auth.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "RelativeToolTip": "Auth.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:20:40.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "RelativeDocumentMoniker": "Auth.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "RelativeToolTip": "Auth.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:19:27.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "Auth.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeToolTip": "Auth.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:18:32.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\arif.Construction.Api\\Base\\BaseController.cs",
-              "RelativeDocumentMoniker": "arif.Construction.Api\\Base\\BaseController.cs",
-              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\arif.Construction.Api\\Base\\BaseController.cs",
-              "RelativeToolTip": "arif.Construction.Api\\Base\\BaseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeDocumentMoniker": "Auth.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeToolTip": "Auth.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T03:16:11.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\arif.Construction.Infrastructure\\appsettings.json",
-              "RelativeDocumentMoniker": "arif.Construction.Infrastructure\\appsettings.json",
-              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\arif.Construction.Infrastructure\\appsettings.json",
-              "RelativeToolTip": "arif.Construction.Infrastructure\\appsettings.json",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-06T03:09:30.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ApplicationDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\arif.Construction.Infrastructure\\ApplicationDbContextFactory.cs",
-              "RelativeDocumentMoniker": "arif.Construction.Infrastructure\\ApplicationDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\arif.Construction.Infrastructure\\ApplicationDbContextFactory.cs",
-              "RelativeToolTip": "arif.Construction.Infrastructure\\ApplicationDbContextFactory.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T02:40:11.768Z",
+              "WhenOpened": "2024-09-06T04:15:08.192Z",
               "EditorCaption": ""
             }
           ]
