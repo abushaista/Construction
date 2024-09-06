@@ -1,0 +1,12 @@
+C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Domain\bin\Debug\net8.0\arif.Construction.Domain.deps.json
+C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Domain\bin\Debug\net8.0\arif.Construction.Domain.dll
+C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Domain\bin\Debug\net8.0\arif.Construction.Domain.pdb
+C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Domain\obj\Debug\net8.0\arif.Construction.Domain.csproj.AssemblyReference.cache
+C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Domain\obj\Debug\net8.0\arif.Construction.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Domain\obj\Debug\net8.0\arif.Construction.Domain.AssemblyInfoInputs.cache
+C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Domain\obj\Debug\net8.0\arif.Construction.Domain.AssemblyInfo.cs
+C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Domain\obj\Debug\net8.0\arif.Construction.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Domain\obj\Debug\net8.0\arif.Construction.Domain.dll
+C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Domain\obj\Debug\net8.0\refint\arif.Construction.Domain.dll
+C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Domain\obj\Debug\net8.0\arif.Construction.Domain.pdb
+C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Domain\obj\Debug\net8.0\ref\arif.Construction.Domain.dll

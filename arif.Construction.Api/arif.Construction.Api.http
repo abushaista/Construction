@@ -1,0 +1,6 @@
+@arif.Construction.Api_HostAddress = http://localhost:5129
+
+GET {{arif.Construction.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
