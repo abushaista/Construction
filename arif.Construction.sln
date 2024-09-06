@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "arif.Construction.Api", "ar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Auth.Domain", "Auth.Domain\Auth.Domain.csproj", "{9D0835BA-9145-43FF-8D52-9B14B026F1BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth.Application", "Auth.Application\Auth.Application.csproj", "{E6F5723F-D769-46FA-8098-51C12B813D12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Auth.Application", "Auth.Application\Auth.Application.csproj", "{E6F5723F-D769-46FA-8098-51C12B813D12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth.Infrastructure", "Auth.Infrastructure\Auth.Infrastructure.csproj", "{AD81063C-0009-484F-B367-2BEFD330C92C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Auth.Infrastructure", "Auth.Infrastructure\Auth.Infrastructure.csproj", "{AD81063C-0009-484F-B367-2BEFD330C92C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth.Api", "Auth.Api\Auth.Api.csproj", "{EEA84FA4-999D-4584-8458-B68DF7172840}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +57,10 @@ Global
 		{AD81063C-0009-484F-B367-2BEFD330C92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD81063C-0009-484F-B367-2BEFD330C92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD81063C-0009-484F-B367-2BEFD330C92C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEA84FA4-999D-4584-8458-B68DF7172840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA84FA4-999D-4584-8458-B68DF7172840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA84FA4-999D-4584-8458-B68DF7172840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA84FA4-999D-4584-8458-B68DF7172840}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +73,7 @@ Global
 		{9D0835BA-9145-43FF-8D52-9B14B026F1BB} = {015D4D77-318A-4D6A-908F-BB39D84A6B9B}
 		{E6F5723F-D769-46FA-8098-51C12B813D12} = {015D4D77-318A-4D6A-908F-BB39D84A6B9B}
 		{AD81063C-0009-484F-B367-2BEFD330C92C} = {015D4D77-318A-4D6A-908F-BB39D84A6B9B}
+		{EEA84FA4-999D-4584-8458-B68DF7172840} = {015D4D77-318A-4D6A-908F-BB39D84A6B9B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8CD7DE71-A23F-483B-BBDF-DA53696B2148}

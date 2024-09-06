@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD81063C-0009-484F-B367-2BEFD330C92C}|Auth.Infrastructure\\Auth.Infrastructure.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.infrastructure\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD81063C-0009-484F-B367-2BEFD330C92C}|Auth.Infrastructure\\Auth.Infrastructure.csproj|solutionrelative:auth.infrastructure\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.application\\queries\\loginqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\queries\\loginqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.application\\queries\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\queries\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD81063C-0009-484F-B367-2BEFD330C92C}|Auth.Infrastructure\\Auth.Infrastructure.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.infrastructure\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD81063C-0009-484F-B367-2BEFD330C92C}|Auth.Infrastructure\\Auth.Infrastructure.csproj|solutionrelative:auth.infrastructure\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.application\\queries\\loginqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\queries\\loginqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD81063C-0009-484F-B367-2BEFD330C92C}|Auth.Infrastructure\\Auth.Infrastructure.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.infrastructure\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD81063C-0009-484F-B367-2BEFD330C92C}|Auth.Infrastructure\\Auth.Infrastructure.csproj|solutionrelative:auth.infrastructure\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.application\\abstractions\\messaging\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.application\\common\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\common\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.application\\queries\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\queries\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6F5723F-D769-46FA-8098-51C12B813D12}|Auth.Application\\Auth.Application.csproj|c:\\users\\arif\\source\\repos\\arif.construction\\auth.application\\common\\authenticationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Infrastructure\\JwtSettings.cs",
               "RelativeDocumentMoniker": "Auth.Infrastructure\\JwtSettings.cs",
@@ -75,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "JwtTokenGenerator.cs",
               "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Infrastructure\\JwtTokenGenerator.cs",
               "RelativeDocumentMoniker": "Auth.Infrastructure\\JwtTokenGenerator.cs",
@@ -83,12 +83,11 @@
               "RelativeToolTip": "Auth.Infrastructure\\JwtTokenGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T04:37:56.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T04:37:56.505Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IPasswordHash.cs",
               "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Common\\IPasswordHash.cs",
               "RelativeDocumentMoniker": "Auth.Application\\Common\\IPasswordHash.cs",
@@ -96,12 +95,11 @@
               "RelativeToolTip": "Auth.Application\\Common\\IPasswordHash.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T04:36:36.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T04:36:36.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IJwtTokenGenerator.cs",
               "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Common\\IJwtTokenGenerator.cs",
               "RelativeDocumentMoniker": "Auth.Application\\Common\\IJwtTokenGenerator.cs",
@@ -109,18 +107,17 @@
               "RelativeToolTip": "Auth.Application\\Common\\IJwtTokenGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T04:35:22.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T04:35:22.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "LoginQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Queries\\LoginQueryHandler.cs",
               "RelativeDocumentMoniker": "Auth.Application\\Queries\\LoginQueryHandler.cs",
               "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Queries\\LoginQueryHandler.cs",
               "RelativeToolTip": "Auth.Application\\Queries\\LoginQueryHandler.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T04:34:37.557Z",
               "EditorCaption": ""
@@ -135,25 +132,23 @@
               "RelativeToolTip": "Auth.Application\\Common\\AuthenticationResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T04:29:24.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T04:29:24.249Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Auth.Application",
+              "Title": "Auth.Application.csproj",
               "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Auth.Application.csproj",
               "RelativeDocumentMoniker": "Auth.Application\\Auth.Application.csproj",
               "ToolTip": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Auth.Application.csproj",
               "RelativeToolTip": "Auth.Application\\Auth.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-06T04:28:55.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T04:28:55.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "LoginQuery.cs",
               "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Queries\\LoginQuery.cs",
               "RelativeDocumentMoniker": "Auth.Application\\Queries\\LoginQuery.cs",
@@ -166,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Arif\\source\\repos\\arif.Construction\\Auth.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
               "RelativeDocumentMoniker": "Auth.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
@@ -174,8 +169,7 @@
               "RelativeToolTip": "Auth.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T04:20:40.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T04:20:40.4Z"
             },
             {
               "$type": "Document",
@@ -187,8 +181,7 @@
               "RelativeToolTip": "Auth.Application\\Abstractions\\Messaging\\IQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T04:19:27.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T04:19:27.932Z"
             },
             {
               "$type": "Document",
@@ -200,8 +193,7 @@
               "RelativeToolTip": "Auth.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T04:18:32.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T04:18:32.216Z"
             },
             {
               "$type": "Document",
@@ -213,8 +205,7 @@
               "RelativeToolTip": "Auth.Application\\Abstractions\\Messaging\\ICommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T04:15:08.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T04:15:08.192Z"
             }
           ]
         }
