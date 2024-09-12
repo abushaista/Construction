@@ -48,3 +48,7 @@ C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Api\obj\Debug\net
 C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Api\obj\Debug\net8.0\arif.Construction.Api.pdb
 C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Api\obj\Debug\net8.0\arif.Construction.Api.genruntimeconfig.cache
 C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Api\obj\Debug\net8.0\ref\arif.Construction.Api.dll
+C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Api\bin\Debug\net8.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Api\bin\Debug\net8.0\Serilog.dll
+C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Api\obj\Debug\net8.0\arif.Construction.Api.sourcelink.json

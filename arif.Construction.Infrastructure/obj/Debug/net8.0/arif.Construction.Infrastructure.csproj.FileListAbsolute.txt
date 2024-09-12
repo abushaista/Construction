@@ -19,3 +19,4 @@ C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Infrastructure\ob
 C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Infrastructure\obj\Debug\net8.0\arif.Construction.Infrastructure.pdb
 C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Infrastructure\obj\Debug\net8.0\arif.Construction.Infrastructure.genruntimeconfig.cache
 C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Infrastructure\obj\Debug\net8.0\ref\arif.Construction.Infrastructure.dll
+C:\Users\Arif\source\repos\arif.Construction\arif.Construction.Infrastructure\obj\Debug\net8.0\arif.Construction.Infrastructure.sourcelink.json

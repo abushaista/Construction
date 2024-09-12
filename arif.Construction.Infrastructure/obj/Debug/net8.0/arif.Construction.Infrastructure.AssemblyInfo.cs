@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("arif.Construction.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0fb781d638a19caca6bb7422ba2a38734c1e27f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bb9497a29735abd99986ea46931559fb16e9be5")]
 [assembly: System.Reflection.AssemblyProductAttribute("arif.Construction.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("arif.Construction.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
